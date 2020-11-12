@@ -28,7 +28,7 @@ sagemath9.1
 
 
 ## Authors
-私です。
+私.
 
 ## References
 暗号のための格子の理論
