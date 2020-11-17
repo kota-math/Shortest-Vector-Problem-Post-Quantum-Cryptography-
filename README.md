@@ -21,12 +21,16 @@ b∗1, . . . , b∗n，
 ((b∗k).norm())^2 ≥ (δ − µ^2_(k,k−1) ) * ((b∗_k−1).norm())^2 を満たす．
 
 ## Dependency
-sagemath9.1
+ SageMath version 9.1, Release Date: 2020-05-20                     │
+│ Using Python 3.7.3.
 
 
 ## Usage
 ソースに記載
-
+簡約したい行列を変えることで簡約可能.
+Deep_LLL_methodを使うとSageMathでも
+40次元の行列は
+簡約化可能です。
 
 ## Authors
 私.
